@@ -1,0 +1,4 @@
+B:\Desktop\Implementation\pet-rescue-program-master\Pet Rescue Shelter App\Pet Rescue Shelter App\obj\Release\Pet_Rescue_Shelter_App.Happy_Hounds.resources
+B:\Desktop\Implementation\pet-rescue-program-master\Pet Rescue Shelter App\Pet Rescue Shelter App\obj\Release\Pet_Rescue_Shelter_App.Properties.Resources.resources
+B:\Desktop\Implementation\pet-rescue-program-master\Pet Rescue Shelter App\Pet Rescue Shelter App\obj\Release\Pet Rescue Shelter App.csproj.GenerateResource.Cache
+B:\Desktop\Implementation\pet-rescue-program-master\Pet Rescue Shelter App\Pet Rescue Shelter App\obj\Release\Pet Rescue Shelter App.csproj.CoreCompileInputs.cache
